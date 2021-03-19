@@ -18,3 +18,5 @@ hopeflly there are updates to come.
 -Q-
 This is a test to see if the password is saved.
 Second test for password saving, pretty sure I needed to enable credential helper?
+That might have done it, now seeing if it worked
+-Q-
