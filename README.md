@@ -17,3 +17,4 @@ This is end of day Friday, as long as the work week isn't nuts, I should be able
 hopeflly there are updates to come.
 -Q-
 This is a test to see if the password is saved.
+Second test for password saving, pretty sure I needed to enable credential helper?
