@@ -20,3 +20,6 @@ This is a test to see if the password is saved.
 Second test for password saving, pretty sure I needed to enable credential helper?
 That might have done it, now seeing if it worked
 -Q-
+That did not seem to do it, cleared the file, re-ran.
+Testing now.
+-Q-
