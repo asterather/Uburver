@@ -29,3 +29,12 @@ Nope, that didn't work,
 not focusing on it.
 I can keep the password in my head.
 -Q-
+Looks like dates would be good here,
+it's 04/01/2021, still working away on this, just found out about w3m and LAMP stacks.
+kept hearing about it so now I'm going to set up a LAMP stack on here, and use w3m to test.
+Thanks to this being a VM, access to the IP doesn't work, might look into at some point, but this works for now,
+don't want to focus on too much all ot once.
+I need to find out how I set up the colours of the command line and then save the write up.
+Look into using a droplet or something vs hosting and buying a domain.
+now to see if I remember the git commands to get this online.
+-Q-04/01/2021
