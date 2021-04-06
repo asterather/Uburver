@@ -38,3 +38,16 @@ I need to find out how I set up the colours of the command line and then save th
 Look into using a droplet or something vs hosting and buying a domain.
 now to see if I remember the git commands to get this online.
 -Q-04/01/2021
+GitHub seems to work well for notes. We'll keep that going.
+next thing is Docker and a LAMP stack. getting Docker working while also learning the basics of
+LAMPs should be good.
+The realization is that I can have a lot of fun with this, but it all dies fast when it isn't 
+a sandbox and I mess something up.
+The focus needs to be on safe practices and backups.
+GitHub is like a note backup, but in general, I need something to make sure the data does'nt get lost forever. RAID could be a thing. Need to check into old laptops and and see if I can get the data off and use the hardware for a RAID or non RAID setup. I have the Bonobo, I should be able to connect drives and use for safety.
+Until I have a safe backup, or a way to protect against deletion/loss, will stay on Company-managed programs.
+photo backups would be a big one. I don't want to lose photos and something like google photos helps by being automatic. 
+maybe check into nextcloud or my cloud wte it's called so that I can get a "cloud" set up to auto pull things like photos from my phone. and also be a place to save other stuff as well.
+This could be a cloud folder system and allow for upload from the phone, or other devices.
+Either way, I need to get photos, music, videos, and such onto their own storage
+-Q- 04/06/2021 17:00
