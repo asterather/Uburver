@@ -54,3 +54,6 @@ Either way, I need to get photos, music, videos, and such onto their own storage
 Having extrenal access is becoming more neccessary to test things, if I can't figure out how to enable access from outside networks on the VM, I'll have to set something up without using a VM
 remote access to my own computer system at home would be good enough as a start point.
 -Q- 04/09/2021 21:06 UTC
+The next step in this area is to GET JELLYFIN GOING
+the biggesty hurdle I forsee is access on an externtal IP.
+Hopefully it helps me understand networking  a little better.
