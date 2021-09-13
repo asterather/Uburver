@@ -57,3 +57,14 @@ remote access to my own computer system at home would be good enough as a start 
 The next step in this area is to GET JELLYFIN GOING
 the biggesty hurdle I forsee is access on an externtal IP.
 Hopefully it helps me understand networking  a little better.
+
+
+Got a domain on Godaddy, but not sure it's what I want.
+the end goal is to have a domain or website wte, and host on my own server.
+I want to be able to manage all the things, in a terminal environment.
+Currently, I have ssh set up on this VM I am working from in Virtualbox.
+I'll work from here for a bit, but the focus is to get a site up and running
+ that I can access anywhere to not have to worry about connecting IP to this or that.
+a simple site, all my shit, all in a way that is easy to handle.
+Should be simple to set up. >_> Ish.
+-Q- 09/13/21 16:44 UTC
